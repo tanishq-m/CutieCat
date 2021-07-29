@@ -1,0 +1,63 @@
+body{
+    font-family: 'Montserrat-thin', sans-serif;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.catiphone{
+    width: 340px;
+    height: 640px;
+    transform: rotate(25deg);
+}
+
+.container-fluid{
+    
+    padding-top:  3% ;
+    padding-left: 15%;
+    padding-right:15%;
+    padding-bottom: 3%;
+}
+
+#title{
+    background-color:  #DCD6F7;
+    
+   
+  
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+/* navigation bar */
+
+.navbar{
+    padding-top:   0;
+    padding-left:  0;
+    padding-right: 0;
+    padding-bottom: 3rem;
+
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #000;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.3rem;
+    font-family: 'Montserrat-light', sans-serif;
+    color:black !important;
+}
+
+.download-button{
+ margin: 5% 5% 5% 0;
+}
